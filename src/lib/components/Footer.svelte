@@ -1,6 +1,6 @@
 <footer>
 	<div class="footer">
-		<p>Powered by <a href="https://dedicatedmc.io">Dedicated MC</a>, a minimal open source Minecraft status page.</p>
+		<p>Powered by <a href="https://dedicatedmc.io">Dedicated MC</a>, a cheap minecraft hosting.</p>
 	</div>
 </footer>
 
